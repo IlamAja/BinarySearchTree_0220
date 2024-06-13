@@ -154,7 +154,7 @@ int main(){
         }
         default:
         {
-            cout << "Exit";
+            cout << "Invalid option" << endl;
             break;
         }
         }
